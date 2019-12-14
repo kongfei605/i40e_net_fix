@@ -1,4 +1,4 @@
-+ 问题整理 https://blog.witd.in/2019/12/10/%E4%B8%8D%E9%87%8D%E5%BB%BA%E5%AE%B9%E5%99%A8%E6%81%A2%E5%A4%8D%E5%AE%B9%E5%99%A8%E7%BD%91%E7%BB%9C/ 
++ 问题整理 https://blog.witd.in/2019/12/10/%E7%BD%91%E5%8D%A1%E9%A9%B1%E5%8A%A8%E5%8D%87%E7%BA%A7%E5%AF%BC%E8%87%B4%E5%AE%B9%E5%99%A8%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87%E4%B8%A2%E5%A4%B1%E9%97%AE%E9%A2%98/ 
 
 + ```sh build.sh```  会产生ELF 版本 i40e_net_fix 文件
 
